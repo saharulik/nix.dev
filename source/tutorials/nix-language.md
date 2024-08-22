@@ -89,7 +89,7 @@ Read detailed explanations if you want to make sure you fully understand the exa
 - The content of a *Nix file* (file extension `.nix`) is a Nix expression.
 
 :::{note}
-To *evaluate* means to transform an expression into a value according to the language rules.
+To ***evaluate*** means to transform an expression into a value according to the language rules.
 :::
 
 This tutorial contains many examples of Nix expressions.
